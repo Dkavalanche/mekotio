@@ -1,3 +1,4 @@
+# Simula un C&C para interactuar con un BOT Mekotio en una red controlada
 import socketserver
 
 class MyTCPHandler(socketserver.BaseRequestHandler):
@@ -22,19 +23,11 @@ if __name__ == "__main__":
 
 #<|SNUNFHXQU|>
 #<|WY|> / Pregunta nombre de bot.
-#<|xywz|>1--09-06-N-96<|>32 - Windows 8.16.39600<|>TEMPO tempo123 windows defender-santandercomar<|>TEMPO tempo123<<|6//&M31R543V36m!santandercomar
+#<|xywz|>1--09-06-N-96<|>32 - Windows 8.16.39600<|>TEMPO tempo123 windows defender-gaalicia<|>TEMPO tempo123<<|6//&M31R543V36m!galicia
 #<|stygqwokui|>8259478<<|<|iuqm|>
-#<|ywloz|><|dlpeaUoilF|>santander3.zip<<|67547<|iuqm|>
+#<|ywloz|><|dlpeaUoilF|>galiciaxx.zip<<|67547<|iuqm|>
 #<|SLUT|><|Eoadivn|>###TEMPO
 #orca3whiid8gota@<|iuqm|>  bloquea
-#<|SLUT|>
-#iedabajamn<|yJuSakR|>86<|>104<<|<|uubkSaRA3yJ|>86<|>104<<|<|yJuSakR|>261<|>101<<|<|uubkSaRA3yJ|>261<|>101<<|<|yJuSakR|>1357<|>612<<|<|uubkSaRA3yJ|>1357<|>612<<|<|yJuSakR|>1359<|>135<<|<|uubkSaRA3yJ|>1359<|>134<<|<|iuqm|>
-#<|SLUT|>
-#<|yJuSakR|>41<|>101<<|<|uubkSaRA3yJ|>41<|>101<<|<|yJuSakR|>75<|>255<<|<|uubkSaRA3yJ|>75<|>255<<|<|yJuSakR|>722<|>293<<|<|uubkSaRA3yJ|>722<|>292<<|<|yJuSakR|>724<|>290<<|<|uubkSaRA3yJ|>724<|>290<<|<|yJuSakR|>263<|>455<<|<|uubkSaRA3yJ|>263<|>455<<|<|yJuSakR|>262<|>457<<|<|uubkSaRA3yJ|>262<|>457<<|<|iuqm|>
-#<|SLUT|>
-#cYvlbAkvltcYvlbAkvltcYvlbAkvltcYvlbAkvltcYvlbAkvltcYvlbAkvltcYvlbAkvlt<|iuqm|><|iuqm|><|iuqm|><|iuqm|>
-#1465B74AEA6EFC141ED755AAB9A9AAAB8EFB60AAACDD6EA78DF67F918A899CFB77EC67A3B2CC50B4D754C8B9C5B285EF71FD7EFB1D01
-#<|IYWXZFTJQ|>
 
 #hxxp[:]//serviceares[.]hopto[.]org/contig.txt
 #automovilespalma[.]golffan[.]us 6820
