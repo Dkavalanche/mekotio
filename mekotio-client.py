@@ -1,5 +1,5 @@
 # mekotio-client.py
-
+#Simula ser un Bot de Mekotio 
 import socket
 from time import sleep
 
